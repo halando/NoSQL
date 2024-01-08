@@ -1,0 +1,11 @@
+C:\Users\diak\source\repos\NoSQL\bin\Debug\net6.0\NoSQL.deps.json
+C:\Users\diak\source\repos\NoSQL\bin\Debug\net6.0\NoSQL.dll
+C:\Users\diak\source\repos\NoSQL\bin\Debug\net6.0\NoSQL.pdb
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\NoSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\NoSQL.AssemblyInfoInputs.cache
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\NoSQL.AssemblyInfo.cs
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\NoSQL.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\NoSQL.dll
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\refint\NoSQL.dll
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\NoSQL.pdb
+C:\Users\diak\source\repos\NoSQL\obj\Debug\net6.0\ref\NoSQL.dll
